@@ -21,7 +21,7 @@ def assign_rooms(array)
   rooms
 end
 
-def printer(method, meth)
+def printer(badges, rooms)
   puts assign_rooms
   binding.pry
 end
