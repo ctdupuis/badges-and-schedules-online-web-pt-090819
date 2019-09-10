@@ -22,7 +22,6 @@ def assign_rooms(array)
 end
 
 def printer(badges)
-  puts badges
-  puts rooms
+  batch_badge_creator(badges)
   binding.pry
 end
