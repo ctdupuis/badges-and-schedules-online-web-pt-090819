@@ -23,5 +23,6 @@ end
 
 def printer(badges, rooms)
   puts assign_rooms
+  puts batch_badge_creator
   binding.pry
 end
