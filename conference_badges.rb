@@ -23,4 +23,5 @@ end
 
 def printer
   batch_badge_creator
+  binding.pry
 end
