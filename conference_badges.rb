@@ -26,6 +26,6 @@ def printer(badges)
     puts name
   end
   assign_rooms(badges).each do |room|
-    binding.pry
+    puts room
   end
 end
