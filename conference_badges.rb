@@ -23,6 +23,6 @@ end
 
 def printer(badges, rooms)
   puts badges
-  puts batch_badge_creator
+  puts rooms
   binding.pry
 end
