@@ -23,5 +23,5 @@ end
 
 def printer(badges)
   batch_badge_creator(badges)
-  binding.pry
+  assign_rooms(badges)
 end
